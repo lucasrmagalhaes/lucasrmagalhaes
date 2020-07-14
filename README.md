@@ -1,4 +1,4 @@
-# Hello! earth_americas:
+# Hello! :earth_americas:
 
 
 - :office: I am currently working on Porto Alegre Bus Station - RS as Technical Support.
