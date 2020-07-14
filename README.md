@@ -1,11 +1,10 @@
-# Hello! :tw-1f31e:
+# Hello! earth_americas:
 
 
+- :office: I am currently working on Porto Alegre Bus Station - RS as Technical Support.
 
-- :tw-1f454: I am currently working on Porto Alegre Bus Station - RS as Technical Support.
+- :blue_heart: I am passionate about tech, music, movie, dog, cat, games and of course my family!
 
-- :tw-2764: I am passionate about tech, music, movie, dog, cat, games and of course my family!
+- :pencil2: I am currently learning JavaScript, Python and Node.js
 
-- :tw-1f4da: I am currently learning JavaScript, Python and Node.js
-
-- :tw-2754:  Ask me about anything because i promise a good answer!
+- :grey_question: Ask me about anything because i promise a good answer!
