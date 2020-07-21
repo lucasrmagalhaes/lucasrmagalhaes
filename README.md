@@ -7,4 +7,4 @@
 
 - :pencil2: I am currently learning JavaScript, Python and Node.js
 
-- :grey_question: Ask me about anything because i promise a good answer!
+- :red_question: Ask me about anything because i promise a good answer!
