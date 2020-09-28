@@ -6,5 +6,3 @@
 - :blue_heart: I am passionate about tech, music, movie, dog, cat, games and of course my family!
 
 - :pencil2: I am currently learning JavaScript.
-
-- :question: Ask me about anything because i promise a good answer!
