@@ -7,6 +7,6 @@
 
 - :pencil2: I'm currently learning JavaScript. 
 
-[![linkedin](https://i.ibb.co/JQXFxdj/linkedin.png)](https://www.linkedin.com/in/lucasrmagalhaes/) 
-[![twitter](https://i.ibb.co/7SrzrbY/twitter.png)](https://twitter.com/lcs_maluro) 
-[![insta](https://i.ibb.co/D8tNcZ0/instagram.png)](https://www.instagram.com/darosa.ti/?hl=pt-br)
+[![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/lucasrmagalhaes/) 
+[![twitter](https://i.ibb.co/sCjcWFV/twitter2.png)](https://twitter.com/lcs_maluro) 
+[![insta](https://i.ibb.co/m9d7KZ7/instagram2.png)](https://www.instagram.com/darosa.ti/?hl=pt-br)
