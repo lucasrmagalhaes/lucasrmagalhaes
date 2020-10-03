@@ -5,7 +5,7 @@
 
 - :blue_heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
 
-- :pencil2: I'm currently learning JavaScript. 
+- :pencil2: I'm currently learning JS. 
 
 [![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/lucasrmagalhaes/)
 [![spotify](https://i.ibb.co/mDJgncx/spotify.png)](https://open.spotify.com/user/ad75itafbn7w2633u16rwhb09)
