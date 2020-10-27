@@ -4,7 +4,7 @@
 
 - :blue_heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
 
-- :pencil2: I'm currently learning JS.
+- :pencil2: I'm currently learning Java, JS e Angular.
 
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&theme=dark" alt="lucasrmagalhaes" />
