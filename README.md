@@ -6,9 +6,17 @@
 
 - :pencil2: I'm currently learning Java, JS e Angular.
 
+<p>
+  <a href= "https://github.com/lucasrmagalhaes/github-readme-stats">
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&layout=compact"/>
+  </a>
+</p>
+
+<!--
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&theme=dark" alt="lucasrmagalhaes" />
 </p>
+-->
 
 [![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/lucasrmagalhaes/)
 [![spotify](https://i.ibb.co/mDJgncx/spotify.png)](https://open.spotify.com/user/ad75itafbn7w2633u16rwhb09)
