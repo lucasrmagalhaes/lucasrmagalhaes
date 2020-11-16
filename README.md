@@ -4,7 +4,7 @@
 
 - :blue_heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
 
-- :pencil2: I'm currently learning Java, JS e Angular.
+- :pencil2: I'm currently learning COBOL, Java, JS e Angular.
 
 <p>
   <a href= "https://github.com/lucasrmagalhaes/github-readme-stats">
