@@ -18,7 +18,7 @@
 </p>
 -->
 
-Se quiser entrar em contato -> [![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/lucasrmagalhaes/)
+[![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/lucasrmagalhaes/)
 <!-- [![spotify](https://i.ibb.co/mDJgncx/spotify.png)](https://open.spotify.com/user/ad75itafbn7w2633u16rwhb09)
 [![facebook](https://i.ibb.co/VvDKYth/facebook.png)](https://www.facebook.com/darosamagalhaes)
 [![instagram](https://i.ibb.co/m9d7KZ7/instagram2.png)](https://www.instagram.com/darosa.ti/?hl=pt-br)
