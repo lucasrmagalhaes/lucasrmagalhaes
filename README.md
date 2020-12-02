@@ -18,6 +18,11 @@
 </p>
 -->
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucasrmagalhaes/" target="blank" alt="LinkedIn"><img align="center" style="margin: 2px" width="100px" alt="LinkedIn"              src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/img/LinkedIn.svg" />
+  </a>
+</p>
+
 <!--
 [![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/lucasrmagalhaes/)
 [![spotify](https://i.ibb.co/mDJgncx/spotify.png)](https://open.spotify.com/user/ad75itafbn7w2633u16rwhb09)
