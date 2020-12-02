@@ -6,7 +6,7 @@
 
 - :pencil2: I'm currently learning COBOL e PHP. 
 
-<p>
+<p align="center">
   <a href= "https://github.com/lucasrmagalhaes/github-readme-stats">
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&layout=compact"/>
   </a>
