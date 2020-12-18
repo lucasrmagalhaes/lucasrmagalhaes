@@ -1,6 +1,6 @@
 # Hello! :santa::christmas_tree:
 
-- :office: I'm currently working on Porto Alegre Bus Station - RS as Technical Support.
+- :office: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.
 
 - :blue_heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family! 
 
