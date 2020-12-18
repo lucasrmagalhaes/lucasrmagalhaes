@@ -2,9 +2,7 @@
 
 - :office: I'm currently working on Porto Alegre Bus Station - RS as Technical Support.
 
-- :blue_heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
-
-- :pencil2: I'm currently learning COBOL e PHP. 
+- :blue_heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family! 
 
 <p align="center">
   <a href= "https://github.com/lucasrmagalhaes/github-readme-stats">
