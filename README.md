@@ -2,7 +2,7 @@
 
 - :office: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.
 
-- :blue_heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family! 
+- :heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family! 
 
 <p align="center">
   <a href= "https://github.com/lucasrmagalhaes/github-readme-stats">
