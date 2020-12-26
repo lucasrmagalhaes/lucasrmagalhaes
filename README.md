@@ -3,7 +3,7 @@
 - :department_store: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.
 - :heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
 - :speech_balloon: Ask me about anything [here](https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues).
-- :link: [My Social Networks](https://linktr.ee/lucasrmagalhaes "My Social Networks")
+- :link: [My Social Networks](https://linktr.ee/lucasrmagalhaes "My Social Networks").
 
 <div align="center">
 
