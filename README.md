@@ -1,4 +1,4 @@
-# Hello! :santa::christmas_tree:
+# Hello! :earth_americas:
 
 - :department_store: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.
 
