@@ -5,7 +5,7 @@
 - :link: [My Social Networks](https://linktr.ee/lucasrmagalhaes "My Social Networks")
 
 <details>
-    <summary>Top Skills</summary>
+    <summary>Top skills</summary>
   
 <p align="center">
   <a href= "https://github.com/lucasrmagalhaes/github-readme-stats">
