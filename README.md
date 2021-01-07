@@ -1,9 +1,11 @@
-# Hello World! :earth_americas:
+<h1 align="center">Hello World! :earth_americas:</h1>
 
-- :department_store: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.
-- :heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
-- :speech_balloon: Ask me about anything [here](https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues).
-- :link: [My Social Networks](https://linktr.ee/lucasrmagalhaes "My Social Networks").
+<ul>
+  <li>:department_store: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.</li>
+  <li>:heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!</li>
+  <li>:speech_balloon: Ask me about anything [here](https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues).</li>
+  <li>:link: [My Social Networks](https://linktr.ee/lucasrmagalhaes "My Social Networks").</li>
+</ul>
 
 <div align="center">
 
