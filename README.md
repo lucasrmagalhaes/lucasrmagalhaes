@@ -3,8 +3,8 @@
 <ul>
   <li>:department_store: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.</li>
   <li>:heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!</li>
-  <li>:speech_balloon: Ask me about anything [here](https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues).</li>
-  <li>:link: [My Social Networks](https://linktr.ee/lucasrmagalhaes "My Social Networks").</li>
+  <li>:speech_balloon: Ask me about anything <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">here.</a>.</li>
+  <li>:link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a>.</li>
 </ul>
 
 <div align="center">
