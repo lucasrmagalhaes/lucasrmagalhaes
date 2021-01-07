@@ -7,7 +7,7 @@
   <li>:link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a>.</li>
 </ul>
 
-<div align="center">
+<div align="left">
 
 [![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
