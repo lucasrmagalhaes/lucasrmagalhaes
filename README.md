@@ -14,7 +14,18 @@
   
 <div align="center">
   
-[![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+</details>
+
+<details>
+    <summary>GitHub Stats</summary>
+  
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
