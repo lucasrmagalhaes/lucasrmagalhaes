@@ -12,23 +12,10 @@
 <hr>
 
 <details>
-    <summary>Most Used Languages</summary>
-  
-<div align="center">
-  
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-</details>
-
-<details>
-    <summary>GitHub Stats</summary>
-  
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
+  <summary>Most Used Languages and GitHub Stats</summary>
+  <div>
+    <div align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast">
+    </div>
 </details>
