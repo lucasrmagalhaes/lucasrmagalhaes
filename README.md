@@ -41,7 +41,7 @@
           <li><a href="https://github.com/lucasrmagalhaes/cities_api-java">API REST de Consulta de Cidades do Brasil</a></li>
           <li><a href="https://github.com/lucasrmagalhaes/person_api-DIO">Sistema de Gerenciamento de Pessoas em API REST com Spring</a></li>
           <li><a href="https://github.com/lucasrmagalhaes/testesUnitarios-DIO">Testes Unitários - Validação de uma API REST de Gerenciamento de Estoques de Cerveja</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/weather-DIO"></a>Previsão do Tempo via API</li>
+          <li><a href="https://github.com/lucasrmagalhaes/weather-DIO">Previsão do Tempo via API</a></li>
           <li><a href="https://github.com/lucasrmagalhaes/usandoDDD-DIO">Usando DDD</a></li>
           <li><a href="https://github.com/lucasrmagalhaes/api_criptomoedas-js">API Criptomoedas</a></li>
           <li><a href="https://github.com/lucasrmagalhaes/randomPasswordGenerator">Random Password Generator</a></li>
