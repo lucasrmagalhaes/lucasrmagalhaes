@@ -12,32 +12,44 @@
 <hr />
 
 <details>
-  <summary>Repositories</summary>
+  <summary>My Repositories</summary>
     <div align="center">
       <table>
         <tr>
-          <th>Name</th>
-          <th>Description</th>
+          <th>Repository name:</th>
+          <th>About:</th>
         </tr>
         <tr>
           <td><a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes">lucasrmagalhaes</a></td>
           <td>My presentation. 💻</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes-portfolio">Portfólio</a></td>
+          <td><a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes-portfolio">lucasrmagalhaes-portfolio</a></td>
           <td>Portfolio created using HTML, CSS and JS. ⭐</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/lucasrmagalhaes/snake-js">Snake JS</a></td>
+          <td><a href="https://github.com/lucasrmagalhaes/snake-js">snake-js</a></td>
           <td>Nostálgico jogo da 🐍 em JavaScript.</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO">Desafios DIO</a></td>
+          <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO">desafios-DIO</a></td>
           <td>Resolução dos desafios de C Sharp, Java, JS e Ruby da DIO. 📚</td>
         </tr>
         <tr>
-          <td><a href=""></a></td>
-          <td></td>
+          <td><a href="https://github.com/lucasrmagalhaes/covid19-pwa">covid19-pwa</a></td>
+          <td>Progressive Web Application com React para mapear os dados do COVID-19 pelo mundo. 📊</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/urlShortener-DIO">urlShortener-DIO</a></td>
+          <td>✂️ Encurtador de URL</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/jogoDaVelha-js">jogoDaVelha-js</a></td>
+          <td>❌ Jogo da Velha com HTML, CSS e JavaScript. ⭕</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/chatBotTelegram-js">chatBotTelegram-js</a></td>
+          <td>Construindo um ChatbotFit no Telegram com JavaScript e NodeJS.</td>
         </tr>
         <tr>
           <td><a href=""></a></td>
@@ -52,20 +64,8 @@
           <td></td>
         </tr>
         <tr>
-          <td><a href=""></a></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td><a href=""></a></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td><a href=""></a></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td><a href=""></a></td>
-          <td></td>
+          <td><a href="https://github.com/lucasrmagalhaes/superMarioEnglishChallenge-js">superMarioEnglishChallenge-js</a></td>
+          <td>Sistema de reconhecimento de voz em JS para aprender cores em inglês.</td>
         </tr>
         <tr>
           <td><a href=""></a></td>
