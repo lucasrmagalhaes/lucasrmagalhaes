@@ -9,6 +9,8 @@
   :link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a><br />
 </p>
 
+<hr />
+
 <details>
   <summary>Most Used Languages and GitHub Stats</summary>
   <div>
