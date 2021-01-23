@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! :earth_americas:</h1>
+<h1 align="center">Hello :earth_americas:</h1>
 
 <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" min-width="200px" max-width="400px" width="200px" align="right" alt="Learning">
 
