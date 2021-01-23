@@ -13,54 +13,65 @@
 
 <details>
   <summary>Repositories</summary>
-    <div>
-      <h2 align="center">My Projects</h2>
-        <ul>
-          <li><a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes">lucasrmagalhaes</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes-portfolio">Portfólio</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/snake-js">Snake</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/desafios-DIO">Desafios da Digital Innovation One</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/covid19-pwa">COVID-19</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/superMarioEnglishChallenge-js">Super Mario English Challenge</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/urlShortener-DIO">Encurtador de URL</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/jogoDaVelha-js">Jogo da Velha em JS</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/chatBotTelegram-js">ChatbotFit no Telegram com JavaScript e NodeJS</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/netflix-clone">Netflix Clone</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/resgate-js">Resgate JS</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/instagram-css">Interface de Login do Instagram em CSS e HTML</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/dinoGame-js">Dino Game</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/SPA-Angular">SPA Angular</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js">Desenvolvimento Web Moderno com JavaScript! COMPLETO 2020 + Projetos!</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/angular-crud">Angular CRUD</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/aplicandoDesignPatternsNaPraticaComDotNet-DIO">Aplicando Design Patterns na Prática com C#</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/DotNetCoreAvancado-DIO">Configuração da Arquitetura back-end com .NET Core</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/spaceShooter-js">Space Shooter</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/cypressTest-angular">Testes E2E com Cypress</a></li> 
-          <li><a href="https://github.com/lucasrmagalhaes/estruturaDeDadosEAlgoritmos-DIO">Estrutura de Dados e Algoritmos</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/memoryGame_genius-js">Memory Game Genius</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/cities_api-java">API REST de Consulta de Cidades do Brasil</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/person_api-DIO">Sistema de Gerenciamento de Pessoas em API REST com Spring</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/testesUnitarios-DIO">Testes Unitários - Validação de uma API REST de Gerenciamento de Estoques de Cerveja</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/weather-DIO">Previsão do Tempo via API</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/usandoDDD-DIO">Usando DDD</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/api_criptomoedas-js">API Criptomoedas</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/randomPasswordGenerator">Random Password Generator</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/mongo-dotnet">MongoDB + .NET</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/happy-nlw3">Happy NLW#3</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/meetingRoom-DIO">Gerenciador de Salas de Reuniões com Java e Angular</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/php-DIO">PHP - DIO</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/learning-COBOL">Learning COBOL</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/maratona_dev-stefanini">Maratona DEV Stefanini</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/ulbra-cpp">Ulbra C++</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/solutions-HackerRank">Solution to HackerRank Problems</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/learning-php">Learning PHP</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/primeirosPassosComDart-DIO">Primeiros Passos com Dart</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/dio-java">Learning JAVA</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/learning-sql">Learning SQL</a></li>
-          <li><a href="https://github.com/lucasrmagalhaes/learning-sh">Learning SH</a></li>
-        </ul>
-    </div>
-    
+    <div align="center">
+      <table>
+        <tr>
+          <th>Name</th>
+          <th>Description</th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes">lucasrmagalhaes</a></td>
+          <td>My presentation. 💻</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes-portfolio">Portfólio</a></td>
+          <td>Portfolio created using HTML, CSS and JS. ⭐</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/snake-js">Snake JS</a></td>
+          <td>Nostálgico jogo da 🐍 em JavaScript.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO">Desafios DIO</a></td>
+          <td>Resolução dos desafios de C Sharp, Java, JS e Ruby da DIO. 📚</td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+      </table>
 </details>
 
 <details>
