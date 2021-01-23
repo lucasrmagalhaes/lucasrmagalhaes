@@ -12,6 +12,26 @@
 <hr />
 
 <details>
+  <summary>Repositories</summary>
+  <div>
+    <div>
+      <h2 align="center">My Repositories</h2>
+      <ol>
+        <li><a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes">lucasrmagalhaes.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes-portfolio">Portfólio</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/snake-js">Snake JS</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/covid19-pwa">COVID-19 - Progressive Web Application com React</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/desafios-DIO">Desafios da Digital Innovation One</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/learning-COBOL"></a>Learning COBOL</li>
+        <li><a href="https://github.com/lucasrmagalhaes/superMarioEnglishChallenge-js">Super Mario English Challenge</a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+      </ol>
+    </div>
+</details>
+
+<details>
   <summary>Most Used Languages and GitHub Stats</summary>
   <div>
     <div align="left">
