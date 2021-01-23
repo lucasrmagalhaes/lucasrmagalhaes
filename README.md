@@ -2,7 +2,7 @@
 
 <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" min-width="200px" max-width="400px" width="200px" align="right" alt="Learning">
 
-<p>
+<p align="left">
   :department_store: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.<br />
   :heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!<br />
   :speech_balloon: Ask me about anything <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">here.</a><br />
