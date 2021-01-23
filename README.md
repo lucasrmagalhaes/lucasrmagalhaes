@@ -1,4 +1,4 @@
-<h2 align="center">Hello World! :earth_americas:</h2>
+<h1 align="center">Hello World! :earth_americas:</h1>
 
 <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="220px" height="90" align="right" alt="Routine">
 
@@ -144,16 +144,48 @@
           <td>Evento da Rocketseat: Happy NLW#3</td>
         </tr>
         <tr>
-          <td><a href=""></a></td>
-          <td></td>
+          <td><a href="https://github.com/lucasrmagalhaes/meetingRoom-DIO">meetingRoom-DIO</a></td>
+          <td>Gerenciador de salas de reuniões com Java e Angular.</td>
         </tr>
         <tr>
-          <td><a href=""></a></td>
-          <td></td>
+          <td><a href="https://github.com/lucasrmagalhaes/maratona_dev-stefanini">maratona_dev-stefanini</a></td>
+          <td>Maratona de Desenvolvimento do Grupo Stefanini.</td>
         </tr>
         <tr>
-          <td><a href=""></a></td>
-          <td></td>
+          <td><a href="https://github.com/lucasrmagalhaes/learning-COBOL">learning-COBOL</a></td>
+          <td>Meus primeiros passos no COBOL. ⏳</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/solutions-HackerRank">solutions-HackerRank</a></td>
+          <td>Solution to HackerRank problems.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/primeirosPassosComDart-DIO">primeirosPassosComDart-DIO</a></td>
+          <td>Curso: Primeiros Passos com Dart - DIO.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/ulbra-cpp">ulbra-cpp</a></td>
+          <td>Minhas atividades da Ulbra com C++</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/php-DIO">php-DIO</a></td>
+          <td>Cursos de PHP - DIO.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/java-DIO">dio-java</a></td>
+          <td>Cursos de Java - DIO.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/learning-php">learning-php</a></td>
+          <td>PHP do básico ao avançado.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/learning-sh">learning-sh</a></td>
+          <td>Aprendendo a configurar scripts com Shell Scripting.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/learning-sql">learning-sql</a></td>
+          <td>Introdução ao SQL com MySQL: Manipule e consulte dados.</td>
         </tr>
       </table>
 </details>
