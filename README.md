@@ -84,20 +84,76 @@
           <td>Aplicando Design Patterns na Prática com C# - DIO.</td>
         </tr>
         <tr>
-          <td><a href=""></a></td>
-          <td></td>
+          <td><a href="https://github.com/lucasrmagalhaes/DotNetCoreAvancado-DIO">DotNetCoreAvancado-DIO</a></td>
+          <td>Curso: Configuração da arquitetura back-end com .NET Core - DIO.</td>
         </tr>
         <tr>
-          <td><a href=""></a></td>
-          <td></td>
+          <td><a href="https://github.com/lucasrmagalhaes/spaceShooter-js">spaceShooter-js</a></td>
+          <td>Jogo no estilo Space Shooter 👽 em JS.</td>
         </tr>
         <tr>
-          <td><a href=""></a></td>
-          <td></td>
+          <td><a href="https://github.com/lucasrmagalhaes/cypressTest-angular">cypressTest-angular</a></td>
+          <td>Utilizando o Cypress E2E para testar um blog em Angular.</td>
         </tr>
         <tr>
           <td><a href="https://github.com/lucasrmagalhaes/SPA-Angular">SPA-Angular</a></td>
           <td>Desenvolvendo SPA com Angular.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/estruturaDeDadosEAlgoritmos-DIO">estruturaDeDadosEAlgoritmos-DIO</a></td>
+          <td>Curso: Esturturado de Dados e Algoritmos - DIO.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/memoryGame_genius-js">memoryGame_genius-js</a></td>
+          <td>Jogo de memória inspirado no jogo Genius em JavaScript.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/cities_api-java">cities_api-java</a></td>
+          <td>API REST de Consulta de Cidades do Brasil.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/person_api-DIO">person_api-DIO</a></td>
+          <td>Sistema de Gerenciamento de Pessoas</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/testesUnitarios-DIO">testesUnitarios-DIO</a></td>
+          <td>Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/weather-DIO">weather-DIO</a></td>
+          <td>Projeto DIO: Criando projeto para consultar a previsão do tempo via API.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/usandoDDD-DIO">usandoDDD-DIO</a></td>
+          <td>Desenvolvendo sua aplicação com C# usando DDD.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/api_criptomoedas-js">api_criptomoedas-js</a></td>
+          <td>Buscando dados da API: Coin Market Cap.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/randomPasswordGenerator">randomPasswordGenerator</a></td>
+          <td>Gerando senhas aleatórias.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/mongo-dotnet">mongo-dotnet</a></td>
+          <td>API .NET integrada ao MongoDB.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/happy-nlw3">happy-nlw3</a></td>
+          <td>Evento da Rocketseat: Happy NLW#3</td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
         </tr>
       </table>
 </details>
