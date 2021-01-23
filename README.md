@@ -52,24 +52,52 @@
           <td>Construindo um ChatbotFit no Telegram com JavaScript e NodeJS.</td>
         </tr>
         <tr>
-          <td><a href=""></a></td>
-          <td></td>
+          <td><a href="https://github.com/lucasrmagalhaes/netflix-clone">netflix-clone</a></td>
+          <td>Recriando a Interface do Netflix utilizando HTML, CSS e JavaScript.</td>
         </tr>
         <tr>
-          <td><a href=""></a></td>
-          <td></td>
+          <td><a href="https://github.com/lucasrmagalhaes/resgate-js">resgate-js</a></td>
+          <td>Jogo Resgate desenvolvido em JS, HTML e CSS com os frameworks JQuery e JQuery Collision. 🚁</td>
         </tr>
         <tr>
-          <td><a href=""></a></td>
-          <td></td>
+          <td><a href="https://github.com/lucasrmagalhaes/instagram-css">instagram-css</a></td>
+          <td>Recriando a interface de login do Instagram com CSS e HTML.</td>
         </tr>
         <tr>
           <td><a href="https://github.com/lucasrmagalhaes/superMarioEnglishChallenge-js">superMarioEnglishChallenge-js</a></td>
           <td>Sistema de reconhecimento de voz em JS para aprender cores em inglês.</td>
         </tr>
         <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/dinoGame-js">dinoGame-js</a></td>
+          <td>Recriando o famoso jogo do dinossauro sem internet. 🌵</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/web_moderno-js">web_moderno-js</a></td>
+          <td>Desenvolvimento Web Moderno com JavaScript! COMPLETO 2020 + Projetos!</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/angular-crud">angular-crud</a></td>
+          <td>Realizando um CRUD em Angular.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/aplicandoDesignPatternsNaPraticaComDotNet-DIO">aplicandoDesignPatternsNaPraticaComDotNet-DIO</a></td>
+          <td>Aplicando Design Patterns na Prática com C# - DIO.</td>
+        </tr>
+        <tr>
           <td><a href=""></a></td>
           <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href=""></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/SPA-Angular">SPA-Angular</a></td>
+          <td>Desenvolvendo SPA com Angular.</td>
         </tr>
       </table>
 </details>
