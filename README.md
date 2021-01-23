@@ -1,13 +1,13 @@
 <h1 align="center">Hello World! :earth_americas:</h1>
 
+<img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="220px" height="100" align="right" alt="Routine">
+
 <p align="left">
   :department_store: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.<br />
   :heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!<br />
   :speech_balloon: Ask me about anything <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">here.</a><br />
   :link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a><br />
 </p>
-
-<img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="220px" height="100" align="right" alt="Routine">
 
 <hr />
 
