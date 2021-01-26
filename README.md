@@ -189,7 +189,7 @@
         </tr>
         <tr>
           <td><a href="https://github.com/lucasrmagalhaes/gitEGitHub-Alura">gitEGitHub-Alura></a></td>
-          </td>Curso: Git e Github: Controle e compartilhe seu código - Alura.
+          <td>Curso: Git e Github: Controle e compartilhe seu código - Alura.</td>
         </tr>
       </table>
 </details>
