@@ -187,6 +187,10 @@
           <td><a href="https://github.com/lucasrmagalhaes/learning-sql">learning-sql</a></td>
           <td>Introdução ao SQL com MySQL: Manipule e consulte dados.</td>
         </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/gitEGitHub-Alura">gitEGitHub-Alura></a></td>
+          </td>Curso: Git e Github: Controle e compartilhe seu código - Alura.
+        </tr>
       </table>
 </details>
 
