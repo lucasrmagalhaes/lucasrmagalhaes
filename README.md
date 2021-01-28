@@ -172,10 +172,6 @@
           <td>Cursos de PHP - DIO.</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/lucasrmagalhaes/java-DIO">dio-java</a></td>
-          <td>Cursos de Java - DIO.</td>
-        </tr>
-        <tr>
           <td><a href="https://github.com/lucasrmagalhaes/learning-php">learning-php</a></td>
           <td>PHP do básico ao avançado.</td>
         </tr>
