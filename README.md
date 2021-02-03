@@ -12,7 +12,7 @@
 <hr />
 
 <details>
-  <summary>My Repositories</summary>
+  <summary>📁 My Repositories</summary>
     <div align="center">
       <table>
         <tr>
@@ -187,14 +187,39 @@
           <td><a href="https://github.com/lucasrmagalhaes/gitEGitHub-Alura">gitEGitHub-Alura</a></td>
           <td>Curso: Git e Github: Controle e compartilhe seu código - Alura.</td>
         </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/aluraquiz-smallville">aluraquiz-smallville</a></td>
+          <td>Quiz sobre a série Smallville que foi desenvolvido na Imersão React Next.js - Alura.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lucasrmagalhaes/criandoAplicacoesMoveis-ReactNative">criandoAplicacoesMoveis-ReactNative</a></td>
+          <td>Curso: Criando aplicações móveis multiplataforma com React Native - DIO.</td>
+        </tr>
       </table>
 </details>
 
 <details>
-  <summary>Most Used Languages and GitHub Stats</summary>
+  <summary>📊 GitHub Profile Stats</summary>
   <div>
-    <div align="left">
+    <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact">
+    </div>
+</details>
+
+<details>
+  <summary>💻 Most Used Languages</summary>
+  <div>
+    <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast">
+    </div>
+</details>
+
+<details>
+  <summary>🔥 My Contribution Streak</summary>
+  <div>
+    <div align="center">
+      <a href="https://github.com/lucasrmagalhaes/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
+      </a>
     </div>
 </details>
