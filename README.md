@@ -28,6 +28,14 @@
 </details>
 
 <details>
+  <summary>:fire: GitHub Streaks</summary>
+  <div>
+    <div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrmagalhaes&theme=dark">
+    </div>
+</details>
+
+<details>
   <summary>📁 My Repositories</summary>
     <div align="center">
       <table>
