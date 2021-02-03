@@ -213,13 +213,3 @@
         </tr>
       </table>
 </details>
-  
-<!-- <details>
-  <summary>🔥 My Contribution Streak</summary>
-  <div>
-    <div align="center">
-      <a href="https://github.com/lucasrmagalhaes/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
-      </a>
-    </div>
-</details>
