@@ -12,6 +12,22 @@
 <hr />
 
 <details>
+  <summary>💻 Most Used Languages</summary>
+  <div>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact">
+    </div>
+</details>
+  
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <div>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast">
+    </div>
+</details>
+
+<details>
   <summary>📁 My Repositories</summary>
     <div align="center">
       <table>
@@ -197,23 +213,7 @@
         </tr>
       </table>
 </details>
-
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <div>
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact">
-    </div>
-</details>
-
-<details>
-  <summary>💻 Most Used Languages</summary>
-  <div>
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast">
-    </div>
-</details>
-
+  
 <!-- <details>
   <summary>🔥 My Contribution Streak</summary>
   <div>
