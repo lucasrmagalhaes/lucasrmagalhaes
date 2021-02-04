@@ -13,6 +13,7 @@
 
 <details>
   <summary align="center">💻 📊 :fire: 🏆 📁 GitHub Profile Stats and My Repositories</summary>
+      <br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact" /> <br />
       <br />
       <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast" /> <br />
