@@ -27,9 +27,15 @@
   
 <details>
   <summary>:fire: GitHub Streaks</summary>
-  <div>
     <div align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrmagalhaes&theme=dark">
+    </div>
+</details>
+
+<details>
+  <summary>🏆 Github Profile Trophy</summary>
+    <div align="center">
+      <img width=800 src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" />
     </div>
 </details>
 
@@ -219,11 +225,3 @@
         </tr>
       </table>
 </details>
-
-<hr />
-
-<p align="center">
-  <a href="https://github.com/lucasrmagalhaes/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" />
-  </a>
-</p>
