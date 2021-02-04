@@ -18,6 +18,13 @@
       <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast">
     </div>
 </details>
+
+<details>
+  <summary>GitHub Profile Stats 📊</summary>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast">
+    </div>
+</details>
   
 <details>
   <summary>:fire: GitHub Streaks</summary>
