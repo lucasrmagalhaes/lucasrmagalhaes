@@ -12,21 +12,13 @@
 <hr />
 
 <details>
-  <summary>💻 Most Used Languages</summary>
-  <div>
+  <summary>💻 Most Used Languages and GitHub Profile Stats 📊</summary>
     <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact">
-    </div>
-</details>
-  
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <div>
-    <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast">
     </div>
 </details>
-
+  
 <details>
   <summary>:fire: GitHub Streaks</summary>
   <div>
@@ -221,3 +213,11 @@
         </tr>
       </table>
 </details>
+
+<hr />
+
+<p align="center">
+  <a href="https://github.com/lucasrmagalhaes/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" />
+  </a>
+</p>
