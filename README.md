@@ -12,16 +12,15 @@
 <hr />
 
 <details>
-  <summary align="center">💻📊:fire:🏆 GitHub Profile Stats</summary>
+  <summary align="center">💻 📊 :fire: 🏆 📁 GitHub Profile Stats and My Repositories</summary>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact" /> <br />
+      <br />
       <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast" /> <br />
+      <br />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrmagalhaes&theme=dark" /> <br />
-      <img width=800 src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" />
-</details>
-
-<details>
-  <summary align="center">📁 My Repositories</summary>
-    <div align="center">
+      <br />
+      <img width=800 src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" /> <br />
+      <br />
       <table>
         <tr>
           <th>Repository name:</th>
