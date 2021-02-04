@@ -1,4 +1,4 @@
-<h3 align="center">Hello World! :earth_americas:</h3>
+<h2 align="center">Hello World! :earth_americas:</h2>
 
 <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="220px" height="90" align="right" alt="Routine">
 
@@ -12,35 +12,15 @@
 <hr />
 
 <details>
-  <summary>💻 Most Used Languages</summary>
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact">
-    </div>
-</details>
-
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast">
-    </div>
-</details>
-  
-<details>
-  <summary>:fire: GitHub Streaks</summary>
-    <div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrmagalhaes&theme=dark">
-    </div>
-</details>
-
-<details>
-  <summary>🏆 Github Profile Trophy</summary>
-    <div align="center">
+  <summary align="center">💻📊:fire:🏆 GitHub Profile Stats</summary>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact" /> <br />
+      <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast" /> <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrmagalhaes&theme=dark" /> <br />
       <img width=800 src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" />
-    </div>
 </details>
 
 <details>
-  <summary>📁 My Repositories</summary>
+  <summary align="center">📁 My Repositories</summary>
     <div align="center">
       <table>
         <tr>
