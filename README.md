@@ -15,7 +15,6 @@
   <summary>💻 Most Used Languages</summary>
     <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact">
-      <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast">
     </div>
 </details>
 
