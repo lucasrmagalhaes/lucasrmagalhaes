@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/Earth.gif" height="30"></h1>
+<h2 align="center">Hello World! <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/Earth.gif" height="24"></h2>
 
 <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="220px" height="90" align="right" alt="Routine">
 
