@@ -176,10 +176,6 @@
           <td>Minhas atividades da Ulbra com C++</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/lucasrmagalhaes/php-DIO">php-DIO</a></td>
-          <td>Cursos de PHP - DIO.</td>
-        </tr>
-        <tr>
           <td><a href="https://github.com/lucasrmagalhaes/learning-php">learning-php</a></td>
           <td>PHP do básico ao avançado.</td>
         </tr>
