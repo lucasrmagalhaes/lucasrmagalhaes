@@ -1,8 +1,6 @@
-<h3 align="center">Hello World! <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/Earth.gif" height="16"></h3>
+<h1 align="center">Hello World! <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/Earth.gif" height="24"></h1>
 
-<hr />
-
-<img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="220px" height="90" align="right" alt="Routine">
+<img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="260px" height="96" align="right" alt="Routine">
 
 :department_store: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.
 <br />
@@ -12,9 +10,6 @@
 <br />
 :link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a>
 <br />
-
-<hr />
-
 <details>
 <summary align="left">💻 📊 :fire: 🏆 📁 GitHub Profile Stats and My Repositories</summary>
     <br />
@@ -205,5 +200,3 @@
       </tr>
     </table>
 </details>
-
-<hr />
