@@ -1,6 +1,8 @@
 <h2 align="center">Hello World! :earth_americas:</h2>
 
-<img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="246px" height="140" align="right" alt="Routine">
+<a href="#">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="246px" height="140" align="right" alt="Routine">
+</a>
 
 :department_store: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.
 <br />
