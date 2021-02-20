@@ -11,7 +11,12 @@
 :speech_balloon: Ask me about anything <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">here.</a>
 <br />
 :link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a>
-<br /><br />
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrmagalhaes/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucasdarosa.ti@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5519988308501&text=Olá!) 
+[<img src="https://img.shields.io/github/followers/lucasrmagalhaes?label=follow&style=social" height="22" title="Follow me" />](https://github.com/lucasrmagalhaes) 
+
 <details>
 <summary align="left">💻 📊 :fire: 🏆 📁 GitHub Profile Stats and My Repositories</summary>
     <br />
