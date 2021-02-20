@@ -31,7 +31,7 @@
 <details>
     <summary align="left">💻 📊 🏆 📁 GitHub Profile Stats and My Repositories</summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact" align="left" width="370px" height="250" /> 
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast" width="520px" height="250" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast" width="500px" height="250" />
     <table>
       <tr>
         <th>Repository name:</th>
