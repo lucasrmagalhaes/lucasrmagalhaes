@@ -29,16 +29,10 @@
 </a>
 
 <details>
-<summary align="left">💻 📊 :fire: 🏆 📁 GitHub Profile Stats and My Repositories</summary>
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact" /> <br />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast" /> <br />
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrmagalhaes&theme=dark" /> <br />
-    <br />
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" /> <br />
-    <br />
+    <summary align="left">💻 📊 🏆 📁 GitHub Profile Stats and My Repositories</summary>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=20&layout=compact" align="left" width="400px" height="260" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=highcontrast" align="right" width="512px" height="300" />
+    <!-- :fire: <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrmagalhaes&theme=dark" align="right"width="500px" height="300px" /> -->
     <table>
       <tr>
         <th>Repository name:</th>
@@ -217,4 +211,6 @@
         <td>Curso: Criando aplicações móveis multiplataforma com React Native - DIO.</td>
       </tr>
     </table>
+    <img src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" width="1200px" /> 
 </details>
+
