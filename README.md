@@ -1,7 +1,7 @@
 <h2 align="center">Hello World! :earth_americas:</h2>
 
 <a href="#">
-    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="246px" height="140" align="right" alt="Routine">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="240px" height="100" align="right" alt="Routine">
 </a>
 
 :department_store: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.
@@ -12,10 +12,21 @@
 <br />
 :link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrmagalhaes/) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucasdarosa.ti@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5519988308501&text=Olá!) 
-[<img src="https://img.shields.io/github/followers/lucasrmagalhaes?label=follow&style=social" height="22" title="Follow me" />](https://github.com/lucasrmagalhaes) 
+<a href="https://www.linkedin.com/in/lucasrmagalhaes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" align="right">
+</a>
+
+<a href="https://github.com/lucasrmagalhaes">
+    <img src="https://img.shields.io/github/followers/lucasrmagalhaes?label=follow&style=social" height="22" title="Follow me" align="right">
+</a>
+
+<a href="mailto:lucasdarosa.ti@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" align="right">
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=5551986114520&text=Olá!">
+    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" align="right">
+</a>
 
 <details>
 <summary align="left">💻 📊 :fire: 🏆 📁 GitHub Profile Stats and My Repositories</summary>
