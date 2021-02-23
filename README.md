@@ -17,15 +17,15 @@
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5551986114520">
-    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" align="right" alt="Whatsapp">
+    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
 </a>
 
 <a href="mailto:lucasdarosa.ti@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" align="right" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" title="Text me" align="right" alt="Gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/lucasrmagalhaes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" align="right" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="Text me" align="right" alt="LinkedIn">
 </a>
 
 <details>
