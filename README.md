@@ -1,7 +1,7 @@
 <h2 align="center">Hello World! :earth_americas:</h2>
 
 <a href="#">
-    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" width="245px" height="88" align="right" alt="Routine">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
 :department_store: I'm currently working on Porto Alegre Bus Station - RS as Information Systems Programmer.
@@ -21,11 +21,11 @@
 </a>
 
 <a href="mailto:lucasdarosa.ti@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" title="Text me" align="right" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/lucasrmagalhaes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="Text me" align="right" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
 <details>
