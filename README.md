@@ -4,7 +4,7 @@
     <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
-:department_store: I'm currently working on <a href="https://infocap.com.br/">Infocap</a> as Junior RPA Developer.
+:department_store: I'm currently working on <a href="https://infocap.com.br/">Infocap</a> as Software Developer.
 <br />
 :heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
 <br />
