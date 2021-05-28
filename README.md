@@ -4,8 +4,8 @@
     <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
-<!-- :department_store: I'm currently working on <a href="http://www.grupobigfer.com.br/">Grupo Bigfer</a> as Junior Programmer. -->
-<!-- <br /> -->
+:department_store: I'm currently working on <a href="http://www.grupobigfer.com.br/">Grupo Bigfer</a> as Junior Programmer.
+<br />
 :heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
 <br />
 :speech_balloon: Ask me about anything <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">here.</a>
