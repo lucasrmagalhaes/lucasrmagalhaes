@@ -37,7 +37,7 @@
          height="210" 
     /> 
     <img 
-         src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=gruvbox" 
+         src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox"
          width="465px" 
          height="210" 
     />
