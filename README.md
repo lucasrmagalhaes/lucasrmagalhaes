@@ -1,4 +1,4 @@
-<h2 align="center">Hello World! :earth_americas:</h2>
+<!-- <h2 align="center">Hello World! :earth_americas:</h2> -->
 
 <a href="#">
     <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
