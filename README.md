@@ -48,7 +48,7 @@
       <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/stargazers">
         <img src="https://img.shields.io/github/stars/lucasrmagalhaes/lucasrmagalhaes" title="stars" alt="stars" /> 
       </a>
-       <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/LICENSE">
+       <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/lucasrmagalhaes/lucasrmagalhaes" title="license" alt="license" /> 
       </a>
     </p>
