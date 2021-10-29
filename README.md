@@ -1,5 +1,3 @@
-<!-- <h2 align="center">Hello World! :earth_americas:</h2> -->
-
 <a href="#">
     <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
@@ -30,21 +28,28 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
-<details title="Lucas Magalhães' Stats">
+<details title="Lucas Magalhães's Trophies">
     <br />
-    <summary align="left"><strong><i>Lucas Magalhães' Stats</i></strong> 💻 📊 🏆</summary>
-    <p align="center">
-        <img 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=8&layout=compact&theme=gruvbox" 
-             height="200px"
-             title="Lucas Magalhães' Most Used Languages"
-        />
-    </p>
+    <summary align="left"><strong><i>Lucas Magalhães's Trophies</i></strong> 🏆</summary>
     <p align="center">
         <img 
              src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&margin-w=5&no-frame=true" 
              width="1200px"
              title="Lucas Magalhães's Trophies"
         />
+    </p>
+    <p align="center">
+      <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">
+        <img src="https://img.shields.io/github/issues/lucasrmagalhaes/lucasrmagalhaes" /> 
+      </a>
+      <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/network/members">
+        <img src="https://img.shields.io/github/forks/lucasrmagalhaes/lucasrmagalhaes" /> 
+      </a>
+      <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/stargazers">
+        <img src="https://img.shields.io/github/stars/lucasrmagalhaes/lucasrmagalhaes" /> 
+      </a>
+       <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/LICENSE">
+        <img src="https://img.shields.io/github/license/lucasrmagalhaes/lucasrmagalhaes" /> 
+      </a>
     </p>
 </details>
