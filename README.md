@@ -30,17 +30,17 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
-<details title="Lucas Magalhães' stats on GitHub">
+<details title="Lucas Magalhães' Stats">
     <br />
     <summary align="left">GitHub Profile Stats 📊 🏆</summary>
     <img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=8&layout=compact&theme=gruvbox" 
          width="400px"
-         title="Languages"
+         title="Lucas Magalhães' Most Used Languages"
     /> 
     <img 
          src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" 
          width="1200px"
-         title="Trophies"
+         title="Lucas Magalhães's Trophies"
     /> 
 </details>
