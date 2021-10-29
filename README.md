@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/followers/lucasrmagalhaes?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=lucasrmagalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" align="right" />
+<img src="https://komarev.com/ghpvc/?username=lucasrmagalhaes&label=Profile%20views&color=0e75b6&style=flat" title="Profile views" align="right" alt="Profile views" />
 
 <a href="https://api.whatsapp.com/send?phone=5551986114520">
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
@@ -30,15 +30,17 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
-<details>
+<details title="Lucas Magalhães' stats on GitHub">
     <br />
     <summary align="left">GitHub Profile Stats 📊 🏆</summary>
     <img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=8&layout=compact&theme=gruvbox" 
          width="400px"
+         title="Languages"
     /> 
     <img 
          src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" 
          width="1200px"
+         title="Trophies"
     /> 
 </details>
