@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/github/followers/lucasrmagalhaes?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub">
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=lucasrmagalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" align="right" />
+
 <a href="https://api.whatsapp.com/send?phone=5551986114520">
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
 </a>
