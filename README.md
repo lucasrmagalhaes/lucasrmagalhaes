@@ -40,16 +40,16 @@
     </p>
     <p align="center">
       <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">
-        <img src="https://img.shields.io/github/issues/lucasrmagalhaes/lucasrmagalhaes" /> 
+        <img src="https://img.shields.io/github/issues/lucasrmagalhaes/lucasrmagalhaes" title="issues" alt="issues" /> 
       </a>
       <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/network/members">
-        <img src="https://img.shields.io/github/forks/lucasrmagalhaes/lucasrmagalhaes" /> 
+        <img src="https://img.shields.io/github/forks/lucasrmagalhaes/lucasrmagalhaes" title="forks" alt="forks" /> 
       </a>
       <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/stargazers">
-        <img src="https://img.shields.io/github/stars/lucasrmagalhaes/lucasrmagalhaes" /> 
+        <img src="https://img.shields.io/github/stars/lucasrmagalhaes/lucasrmagalhaes" title="stars" alt="stars" /> 
       </a>
        <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/LICENSE">
-        <img src="https://img.shields.io/github/license/lucasrmagalhaes/lucasrmagalhaes" /> 
+        <img src="https://img.shields.io/github/license/lucasrmagalhaes/lucasrmagalhaes" title="license" alt="license" /> 
       </a>
     </p>
 </details>
