@@ -32,17 +32,17 @@
     <summary align="left">GitHub Profile Stats 💻 📊 🏆</summary>
     <img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=8&layout=compact&theme=gruvbox" 
-         align="left" 
-         width="365px" 
-         height="210" 
+         height="210px"
+         align="center"
     /> 
     <img 
-         src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=gruvbox"
-         width="465px" 
-         height="210" 
+         src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=gruvbox" 
+         height="210px"
+         align="center"
     />
     <img 
          src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" 
-         width="1200px" 
+         width="1200px"
+         align="center"
     /> 
 </details>
