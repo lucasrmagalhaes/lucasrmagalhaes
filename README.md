@@ -16,31 +16,42 @@
     <img src="https://img.shields.io/github/followers/lucasrmagalhaes?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=lucasrmagalhaes&label=Profile%20views&color=0e75b6&style=flat" title="Profile views" align="right" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=lucasrmagalhaes&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="Profile views" />
 
 <a href="https://api.whatsapp.com/send?phone=5551986114520">
-    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
+    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
 </a>
 
 <a href="mailto:lucasdarosa.ti@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/lucasrmagalhaes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
 <details title="Lucas Magalhães' Stats">
     <br />
-    <summary align="left">GitHub Profile Stats 📊 🏆</summary>
-    <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=8&layout=compact&theme=gruvbox" 
-         width="400px"
-         title="Lucas Magalhães' Most Used Languages"
-    /> 
-    <img 
-         src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" 
-         width="1200px"
-         title="Lucas Magalhães's Trophies"
-    /> 
+    <summary align="left"><strong><i>Lucas Magalhães' Stats</i></strong> 💻 📊 🏆</summary>
+    <p>
+        <img 
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=8&layout=compact&theme=gruvbox" 
+             height="200px"
+             align="left"
+             title="Lucas Magalhães' Most Used Languages"
+        /> 
+        <img 
+             src="https://github-stats-alpha.vercel.app/api/?username=lucasrmagalhaes"
+             height="200px"
+             title="Lucas Magalhães' Stats"
+        />
+    </p>
+    <p>
+        <img 
+             src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=8&theme=gruvbox&margin-w=5&no-frame=true" 
+             width="100%"
+             align="left"
+             title="Lucas Magalhães's Trophies"
+        />
+    </p>
 </details>
