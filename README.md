@@ -30,11 +30,10 @@
 
 <details>
     <br />
-    <summary align="left">GitHub Profile Stats 💻 📊 🏆</summary>
+    <summary align="left">GitHub Profile Stats 📊 🏆</summary>
     <img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=8&layout=compact&theme=gruvbox" 
-         height="200px"
-         width="1200px"
+         width="400px"
     /> 
     <img 
          src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&no-frame=true" 
