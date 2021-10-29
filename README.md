@@ -33,16 +33,18 @@
 <details title="Lucas Magalhães' Stats">
     <br />
     <summary align="left"><strong><i>Lucas Magalhães' Stats</i></strong> 💻 📊 🏆</summary>
-    <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=8&layout=compact&theme=gruvbox" 
-         height="200px"
-         align="left"
-         title="Lucas Magalhães' Most Used Languages"
-    /> 
-    <img 
-         src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=8&theme=gruvbox&margin-w=5&no-frame=true" 
-         width="1200px"
-         align="left"
-         title="Lucas Magalhães's Trophies"
-    />
+    <p align="center">
+        <img 
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=8&layout=compact&theme=gruvbox" 
+             height="200px"
+             title="Lucas Magalhães' Most Used Languages"
+        />
+    </p>
+    <p align="center">
+        <img 
+             src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=7&theme=gruvbox&margin-w=5&no-frame=true" 
+             width="1200px"
+             title="Lucas Magalhães's Trophies"
+        />
+    </p>
 </details>
