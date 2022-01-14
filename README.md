@@ -2,7 +2,7 @@
     <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
-:department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as Junior Programmer.
+:department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as PHP Programmer.
 <br />
 :heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
 <br />
