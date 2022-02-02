@@ -10,15 +10,7 @@
 <br />
 :link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a>
 
-<a href="https://github.com/lucasrmagalhaes">
-    <img src="https://img.shields.io/github/followers/lucasrmagalhaes?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub">
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=lucasrmagalhaes&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="Profile views" />
-
-<a href="https://api.whatsapp.com/send?phone=5551986114520">
-    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
-</a>
 
 <a href="mailto:lucasdarosa.ti@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
