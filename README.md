@@ -25,7 +25,7 @@
     <summary align="left"><strong><i>Lucas Magalhães's Trophies</i></strong> 🏆</summary>
     <p align="center">
         <img 
-             src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&&margin-h=4&no-frame=true" 
+             src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
              width="60%"
              title="Lucas Magalhães's Trophies"
         />
