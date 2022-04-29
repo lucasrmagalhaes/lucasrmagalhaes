@@ -20,14 +20,19 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
-<details title="Lucas Magalhães's Trophies">
+<details title="Lucas Magalhães's Trophies and Contribution Graph">
     <br />
-    <summary align="left"><strong><i>Lucas Magalhães's Trophies</i></strong> 🏆</summary>
+    <summary align="left"><strong><i>Lucas Magalhães's Trophies and Contribution Graph</i></strong> 🏆 📊</summary>
     <p align="center">
         <img 
              src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
              width="60%"
              title="Lucas Magalhães's Trophies"
+        />
+        <img
+             src="https://activity-graph.herokuapp.com/graph?username=lucasrmagalhaes&theme=react-dark"
+             width="60%"
+             title="Lucas Magalhães's Contribution Graph"
         />
     </p>
     <p align="center">
