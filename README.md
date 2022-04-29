@@ -27,30 +27,16 @@
         <a href="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true">
             <img 
                  src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
-                 width="60%"
+                 width="70%"
                  title="Lucas Magalhães's Trophies"
             />
         </a>
         <a href="https://activity-graph.herokuapp.com/graph?username=lucasrmagalhaes&theme=react-dark">
             <img
                  src="https://activity-graph.herokuapp.com/graph?username=lucasrmagalhaes&theme=react-dark"
-                 width="60%"
+                 width="100%"
                  title="Lucas Magalhães's Contribution Graph"
             />
         </a>
-    </p>
-    <p align="center">
-      <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">
-        <img src="https://img.shields.io/github/issues/lucasrmagalhaes/lucasrmagalhaes" title="issues" alt="issues" /> 
-      </a>
-      <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/network/members">
-        <img src="https://img.shields.io/github/forks/lucasrmagalhaes/lucasrmagalhaes" title="forks" alt="forks" /> 
-      </a>
-      <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/stargazers">
-        <img src="https://img.shields.io/github/stars/lucasrmagalhaes/lucasrmagalhaes" title="stars" alt="stars" /> 
-      </a>
-       <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/lucasrmagalhaes/lucasrmagalhaes" title="license" alt="license" /> 
-      </a>
     </p>
 </details>
