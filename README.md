@@ -24,16 +24,20 @@
     <br />
     <summary align="left"><strong><i>Lucas Magalhães's Trophies and Contribution Graph</i></strong> 🏆 📊</summary>
     <p align="center">
-        <img 
-             src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
-             width="60%"
-             title="Lucas Magalhães's Trophies"
-        />
-        <img
-             src="https://activity-graph.herokuapp.com/graph?username=lucasrmagalhaes&theme=react-dark"
-             width="60%"
-             title="Lucas Magalhães's Contribution Graph"
-        />
+        <a href="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true">
+            <img 
+                 src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
+                 width="60%"
+                 title="Lucas Magalhães's Trophies"
+            />
+        </a>
+        <a href="https://activity-graph.herokuapp.com/graph?username=lucasrmagalhaes&theme=react-dark">
+            <img
+                 src="https://activity-graph.herokuapp.com/graph?username=lucasrmagalhaes&theme=react-dark"
+                 width="60%"
+                 title="Lucas Magalhães's Contribution Graph"
+            />
+        </a>
     </p>
     <p align="center">
       <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">
