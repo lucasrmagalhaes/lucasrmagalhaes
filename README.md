@@ -2,7 +2,7 @@
     <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
-:department_store: I'm currently working on <a href="https://www.deltaglobal.com.br/">Delta Global</a> as Mid-Level Developer.
+:department_store: I'm currently working on <a href="https://www.deltaglobal.com.br/">Global Delta</a> as Mid-Level Developer.
 <br />
 :heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
 <br />
