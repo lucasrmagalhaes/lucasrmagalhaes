@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
 </a>
 
-<!-- <a href="https://www.linkedin.com/in/lucasrmagalhaes/">
+<a href="https://www.linkedin.com/in/lucasrmagalhaes/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
-</a> -->
+</a>
 
 <details title="Lucas Magalhães's Trophies and Contribution Graph">
     <br />
