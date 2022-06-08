@@ -27,7 +27,7 @@
         <a href="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true">
             <img 
                  src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
-                 width="50%"
+                 width="65%"
                  title="Lucas Magalhães's Trophies"
             />
         </a>
