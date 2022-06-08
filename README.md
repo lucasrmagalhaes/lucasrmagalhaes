@@ -27,7 +27,7 @@
         <a href="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true">
             <img 
                  src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
-                 width="70%"
+                 width="50%"
                  title="Lucas Magalhães's Trophies"
             />
         </a>
@@ -35,7 +35,7 @@
         <a href="https://activity-graph.herokuapp.com/graph?username=lucasrmagalhaes&theme=github">
             <img
                  src="https://activity-graph.herokuapp.com/graph?username=lucasrmagalhaes&theme=github"
-                 width="100%"
+                 width="80%"
                  title="Lucas Magalhães's Contribution Graph"
             />
         </a>
