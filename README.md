@@ -106,10 +106,16 @@
         <!-- C# -->
         <!-- GIT -->
         <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/git-gitHub" title="Git e GitHub - Comandos e conceitos">Git e GitHub - Comandos e conceitos</a></td>
+            <td><a href="https://github.com/lucasrmagalhaes/git-gitHub" title="Git e GitHub - Comandos e Conceitos">Git e GitHub - Comandos e Conceitos</a></td>
             <td align="left"><a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="GIT"></a></td>
         </tr>
         <!-- GIT -->
+        <!-- Java -->
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/jasper-java_php" title="Anotações da Biblioteca JasperReports">Anotações da Biblioteca JasperReports</a></td>
+            <td align="left"><a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" title="Java"></a><br><a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" title="PHP"></a></td>
+        </tr>
+        <!-- Java -->
         <!-- PHP -->
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/desenvolvimento_web_avancado-php_laravel_vuejs" title="Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS">Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS</a></td>
