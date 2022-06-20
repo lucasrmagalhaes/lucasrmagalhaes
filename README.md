@@ -1,5 +1,12 @@
 <a href="#">
-    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" align="right" width="30%" height="90px" title="day++" alt="Routine">
+    <img 
+         src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" 
+         align="right" 
+         width="30%" 
+         height="105px" 
+         title="day++" 
+         alt="Routine"
+    >
 </a>
 
 :department_store: I'm currently working on <a href="https://www.deltaglobal.com.br/">Global Delta</a> as Mid-Level Developer.
@@ -10,17 +17,29 @@
 <br />
 :link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a>
 
-<img src="https://komarev.com/ghpvc/?username=lucasrmagalhaes&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" alt="Profile views" align="right">
+<p align="center">
+    <a href="https://www.linkedin.com/in/lucasrmagalhaes/">
+        <img 
+             src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" 
+             title="My Social Network" 
+             alt="LinkedIn"
+        >
+    </a>
+    <a href="mailto:lucasdarosa.ti@gmail.com">
+        <img 
+             src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" 
+             title="Send me an email" 
+             alt="Gmail"
+        >
+    </a>
+    <img 
+         src="https://komarev.com/ghpvc/?username=lucasrmagalhaes&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" 
+         title="Profile views" 
+         alt="Profile views"
+    >
+</p>
 
-<a href="mailto:lucasdarosa.ti@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" alt="Gmail" align="right">
-</a>
-
-<a href="https://www.linkedin.com/in/lucasrmagalhaes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" alt="LinkedIn" align="right">
-</a>
-
-<details title="Most Used Languages and Trophies">
+<details title="Most Used Languages and Trophies" align="left">
     <br />
     <summary align="left"><strong><i>Most Used Languages and Trophies</i></strong> 📊 🏆</summary>
     <img 
@@ -40,7 +59,7 @@
 <details title="Courses and Projects">
     <summary align="left"><strong><i>Courses and Projects</i></strong> :floppy_disk:</summary>
     <br />
-    <table border=1 align="left">
+    <table border=1 align="left" width="50%">
         <tr>
             <th colspan="4" align="center">Courses</th>
         </tr>
@@ -63,7 +82,7 @@
         </tr>
         <!-- TypeScript -->
     </table>
-    <table border=1 align="right">
+    <table border=1 align="right" width="50%">
         <tr>
             <th colspan="4" align="center">Projects</th>
         </tr>
