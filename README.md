@@ -68,12 +68,18 @@
             <th>Name</th>
             <th>Languages</th>
         </tr>
+        <!-- Python -->
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py" title="Segurança da Informação com Python">Segurança da Informação com Python</a></td>
+            <td align="left"><a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python"></a></td>
+        </tr>
+        <!-- Python -->
         <!-- TypeScript -->
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/introducaoPraticaAoTypeScript-ts" title="Introdução Prática ao TypeScript">Introdução Prática ao TypeScript</a></td>
             <td align="left"><a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript"></a></td>
-         </tr>
-         <tr>
+        </tr>
+        <tr>
             <td><a href="https://github.com/lucasrmagalhaes/fundamentosNodeJest-ts" title="Fundamentos Node.js e Jest">Fundamentos Node.js e Jest</a></td>
             <td align="left"><a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript"></a></td>
         </tr>
