@@ -69,6 +69,14 @@
             <th>Website</th>
             <th>Languages</th>
         </tr>
+        <!-- HTML5 -->
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes.github.io" title="Personal Portfolio Website">Personal Portfolio Website</a></td>
+            <td align="center"><a href="https://lucasrmagalhaes.github.io/" title="Personal Portfolio Website">:globe_with_meridians:</a></td>
+            <td align="left"><a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5"></a><br><a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"></a><br><a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"></a>
+            </td>
+        </tr>
+        <!-- HTML5 -->
         <!-- JavaScript -->
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/snake-js" title="Snake">Snake</a></td>
