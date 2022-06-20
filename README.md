@@ -68,6 +68,12 @@
             <th>Name</th>
             <th>Languages</th>
         </tr>
+        <!-- C# -->
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/excecoes-csharp" title="Exceções com C#">Exceções com C#</a></td>
+            <td align="left"><a href="#"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"></a></td>
+        </tr>
+        <!-- C# -->
         <!-- GIT -->
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/git-gitHub" title="Git e GitHub - Comandos e conceitos">Git e GitHub - Comandos e conceitos</a></td>
