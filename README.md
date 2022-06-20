@@ -3,7 +3,7 @@
          src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" 
          align="right" 
          width="30%" 
-         height="105px" 
+         height="95px" 
          title="day++" 
          alt="Routine"
     >
