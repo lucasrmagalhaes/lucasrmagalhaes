@@ -68,6 +68,12 @@
             <th>Name</th>
             <th>Languages</th>
         </tr>
+        <!-- GIT -->
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/git-gitHub" title="Git e GitHub - Comandos e conceitos">Git e GitHub - Comandos e conceitos</a></td>
+            <td align="left"><a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="GIT"></a></td>
+        </tr>
+        <!-- GIT -->
         <!-- Python -->
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py" title="Segurança da Informação com Python">Segurança da Informação com Python</a></td>
