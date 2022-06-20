@@ -56,11 +56,41 @@
     </a>
 </details>
 
-<details title="Courses and Projects">
-    <summary align="left"><strong><i>Courses and Projects</i></strong> :floppy_disk:</summary>
+<details title="Projects and Courses">
+    <summary align="left"><strong><i>Projects and Courses</i></strong> :floppy_disk:</summary>
     <br />
+    <!-- Projects -->
+    <table border=1 title="Projects">
+        <tr>
+            <th colspan="4" align="center">Projects</th>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <th>Website</th>
+            <th>Languages</th>
+        </tr>
+        <!-- JavaScript -->
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/snake-js" title="Snake">Snake</a></td>
+            <td align="center"><a href="https://lucasrmagalhaes.github.io/snake-js/" title="Snake">:globe_with_meridians:</a></td>
+            <td align="left">
+                <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"></a>
+            </td>
+        </tr>
+        <!-- JavaScript -->
+        <!-- React -->
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/covid19-react" title="COVID-19">COVID-19</a></td>
+            <td align="center"><a href="https://covid19-pwa.netlify.app/" title="COVID-19">:globe_with_meridians:</a></td>
+            <td align="left">
+                <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"></a>
+            </td>
+        </tr>
+        <!-- React -->
+    </table>
+    <!-- Projects -->
     <!-- Courses -->
-    <table border=1 align="left" width="50%" title="Courses">
+    <table border=1 title="Courses">
         <tr>
             <th colspan="4" align="center">Courses</th>
         </tr>
@@ -98,34 +128,4 @@
         <!-- TypeScript -->
     </table>
     <!-- Courses -->
-    <!-- Projects -->
-    <table border=1 align="right" width="50%" title="Projects">
-        <tr>
-            <th colspan="4" align="center">Projects</th>
-        </tr>
-        <tr>
-            <th>Name</th>
-            <th>Website</th>
-            <th>Languages</th>
-        </tr>
-        <!-- JavaScript -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/snake-js" title="Snake">Snake</a></td>
-            <td align="center"><a href="https://lucasrmagalhaes.github.io/snake-js/" title="Snake">:globe_with_meridians:</a></td>
-            <td align="left">
-                <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"></a>
-            </td>
-        </tr>
-        <!-- JavaScript -->
-        <!-- React -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/covid19-react" title="COVID-19">COVID-19</a></td>
-            <td align="center"><a href="https://covid19-pwa.netlify.app/" title="COVID-19">:globe_with_meridians:</a></td>
-            <td align="left">
-                <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"></a>
-            </td>
-        </tr>
-        <!-- React -->
-    </table>
-    <!-- Projects -->
 </details>
