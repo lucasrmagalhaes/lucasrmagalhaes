@@ -1,5 +1,5 @@
 <a href="#">
-    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" align="right" width="30%" height="95px" title="day++" alt="Routine">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" align="right" width="30%" height="90px" title="day++" alt="Routine">
 </a>
 
 :department_store: I'm currently working on <a href="https://www.deltaglobal.com.br/">Global Delta</a> as Mid-Level Developer.
