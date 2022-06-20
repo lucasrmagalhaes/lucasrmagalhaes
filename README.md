@@ -70,7 +70,9 @@
         <!-- TypeScript -->
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/introducaoPraticaAoTypeScript-ts">Introdução Prática ao TypeScript</a></td>
-            <td>TypeScript</td>
+            <td align="left">
+                <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+            </td>
          </tr>
          <tr>
             <td>
@@ -78,7 +80,9 @@
                     Fundamentos Node.js e Jest
                 </a>
             </td>
-            <td>TypeScript</td>
+            <td align="left">
+                <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+            </td>
         </tr>
         <!-- TypeScript -->
     </table>
@@ -95,14 +99,18 @@
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/snake-js">Snake</a></td>
             <td align="center"><a href="https://lucasrmagalhaes.github.io/snake-js/">:globe_with_meridians:</a></td>
-            <td>JavaScript</td>
+            <td align="left">
+                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+            </td>
         </tr>
         <!-- JavaScript -->
         <!-- React -->
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/covid19-react">COVID-19</a></td>
             <td align="center"><a href="https://covid19-pwa.netlify.app/">:globe_with_meridians:</a></td>
-            <td>React</td>
+            <td align="left">
+                <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+            </td>
         </tr>
         <!-- React -->
     </table>
