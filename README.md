@@ -124,6 +124,12 @@
             <td align="left"><a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" title="Java"></a><br><a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" title="PHP"></a></td>
         </tr>
         <!-- Java -->
+        <!-- MySQL -->
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/movies_controll-mysql" title="Como Modelar um Banco de Controle de Séries Assistidas com MySQL">Como Modelar um Banco de Controle de Séries Assistidas com MySQL</a></td>
+            <td align="left"><a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"></a></td>
+        </tr>
+        <!-- MySQL -->
         <!-- PHP -->
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/desenvolvimento_web_avancado-php_laravel_vuejs" title="Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS">Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS</a></td>
