@@ -74,6 +74,12 @@
             <td align="left"><a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="GIT"></a></td>
         </tr>
         <!-- GIT -->
+        <!-- PHP -->
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/desenvolvimento_web_avancado-php_laravel_vuejs" title="Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS">Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS</a></td>
+            <td align="left"><a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" title="PHP"></a><br><a href="#"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" title="Laravel"></a><br><a href="#"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" title="Vue.JS"></a></td>
+        </tr>
+        <!-- PHP -->
         <!-- Python -->
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py" title="Segurança da Informação com Python">Segurança da Informação com Python</a></td>
