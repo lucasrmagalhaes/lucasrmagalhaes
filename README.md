@@ -94,6 +94,13 @@
                 <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"></a>
             </td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/tree/chapterI" title="GitHub Explorer">GitHub Explorer</a></td>
+            <td align="center"><a href="https://github-explorer-ignite-react.netlify.app/" title="GitHub Explorer">:globe_with_meridians:</a></td>
+            <td align="left">
+                <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"></a>
+            </td>
+        </tr>
         <!-- React -->
     </table>
     <!-- Projects -->
