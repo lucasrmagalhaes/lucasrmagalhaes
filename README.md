@@ -17,7 +17,7 @@
 <br />
 :link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a>
 
-<p align="center">
+<p align="right">
     <a href="https://www.linkedin.com/in/lucasrmagalhaes/">
         <img 
              src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" 
