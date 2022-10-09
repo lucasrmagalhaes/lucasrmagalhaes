@@ -133,6 +133,12 @@
             <td align="left"><a href="#"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"></a></td>
         </tr>
         <!-- C# -->
+        <!-- CSS -->
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/animation-css" title="CSS: Animation">CSS: Animation</a></td>
+            <td align="left"><a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS"></a></td>
+        </tr>
+        <!-- CSS -->
         <!-- GIT -->
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/git-gitHub" title="Git e GitHub - Comandos e Conceitos">Git e GitHub - Comandos e Conceitos</a></td>
