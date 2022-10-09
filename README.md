@@ -136,7 +136,11 @@
         <!-- CSS -->
         <tr>
             <td><a href="https://github.com/lucasrmagalhaes/animation-css" title="CSS: Animation">CSS: Animation</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS"></a></td>
+            <td align="left"><a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/lucasrmagalhaes/menus-css" title="Menu hamburguer e morphing menu com CSS transitions">Menu hamburguer e morphing menu com CSS transitions</a></td>
+            <td align="left"><a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"></a></td>
         </tr>
         <!-- CSS -->
         <!-- GIT -->
