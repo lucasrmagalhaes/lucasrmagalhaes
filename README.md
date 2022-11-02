@@ -188,7 +188,7 @@
 </details>
 
 <details>
-    <summary><strong>Spotify Recently Played :arrow_forward:</strong></summary>
+    <summary><strong><i>Spotify Recently Played<i></strong> :arrow_forward:</summary>
     <br />
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ad75itafbn7w2633u16rwhb09" />
 </details>
