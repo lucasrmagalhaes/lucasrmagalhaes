@@ -9,7 +9,7 @@
     >
 </a>
 
-:department_store: I'm currently working on <a href="https://www.deltaglobal.com.br/">Global Delta</a> as Mid-Level Developer.
+:department_store: I'm currently working on <a href="https://www.fiergs.org.br/">FIERGS</a> as Information Technology Analyst.
 <br />
 :heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
 <br />
