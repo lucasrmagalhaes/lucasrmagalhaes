@@ -39,7 +39,7 @@
     >
 </p>
 
-<details title="Most Used Languages and Trophies" align="left">
+<!-- <details title="Most Used Languages and Trophies" align="left">
     <br />
     <summary align="left"><strong><i>Most Used Languages and Trophies</i></strong> 📊 🏆</summary>
     <img 
@@ -54,7 +54,7 @@
              width="55%"
         />
     </a>
-</details>
+</details> -->
 
 <details title="Projects and Courses">
     <summary align="left"><strong><i>Projects and Courses</i></strong> :floppy_disk:</summary>
