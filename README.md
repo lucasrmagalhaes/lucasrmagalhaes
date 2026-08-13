@@ -9,7 +9,7 @@ Information Technology Analyst at [FIERGS](https://www.fiergs.org.br/) — build
 <p>
   <a href="https://www.linkedin.com/in/lucasrmagalhaes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:lucasdarosa.ti@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://lucasrmagalhaes.github.io/"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://magalhaes.dev/"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linktr.ee/lucasrmagalhaes"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
 </p>
 
@@ -56,7 +56,7 @@ I build web applications end to end — from PHP/Laravel, Node.js and C# back en
 
 ## Featured Projects
 
-- **[Personal Portfolio](https://github.com/lucasrmagalhaes/lucasrmagalhaes.github.io)** — my personal website, hand-built with HTML, CSS and JavaScript · [live](https://lucasrmagalhaes.github.io/)
+- **[Personal Portfolio](https://magalhaes.dev/)** — my personal website, built with React · [magalhaes.dev](https://magalhaes.dev/)
 - **[dt money](https://github.com/lucasrmagalhaes/ignite_rockeatseat-react)** — personal finance tracker built with React during Rocketseat Ignite · [live](https://dt-money-react.netlify.app/) · the same repo also hosts [GitHub Explorer](https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/tree/chapterI) ([live](https://github-explorer-ignite-react.netlify.app/))
 - **[Event Platform](https://github.com/lucasrmagalhaes/event_platform-react)** — an event platform built with React · [live](https://event-platform-react-roan.vercel.app/)
 - **[Snake](https://github.com/lucasrmagalhaes/snake-js)** — the classic snake game in vanilla JavaScript · [play](https://lucasrmagalhaes.github.io/snake-js/)
