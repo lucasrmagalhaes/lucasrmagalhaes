@@ -1,91 +1,16 @@
-<div align="center">
-
 # Lucas Magalhães
 
-**Full Stack Developer | AI Engineer**
+Full Stack Developer at [Sistema FIERGS](https://www.fiergs.org.br/), Porto Alegre area, RS.
 
-Information Technology Analyst at [FIERGS](https://www.fiergs.org.br/) — building full‑stack web products and moving deeper into AI engineering.
+[magalhaes.dev](https://magalhaes.dev) · [LinkedIn](https://linkedin.com/in/lucasrmagalhaes)
 
-<p>
-  <a href="https://www.linkedin.com/in/lucasrmagalhaes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:lucasdarosa.ti@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://magalhaes.dev/"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linktr.ee/lucasrmagalhaes"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
-</p>
+## Stack
 
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,php,react,nextjs,nodejs,laravel,docker,mysql&perline=9" alt="JavaScript, TypeScript, PHP, React, Next.js, Node.js, Laravel, Docker, MySQL" />
 
-## About
+## Featured projects
 
-I build web applications end to end — from PHP/Laravel, Node.js and C# back ends to React and Vue front ends — and I'm currently focused on bringing AI into real products. Outside of code I'm passionate about tech, music, movies, dogs, cats, games and, of course, my family.
-
-💬 Questions or ideas? [Ask me anything](https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues).
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,php" alt="JavaScript, TypeScript, Python, Java, C#, PHP" /></a>
-
-**Frameworks & Web**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vue,nodejs,laravel,html,css" alt="React, Vue.js, Node.js, Laravel, HTML, CSS" /></a>
-
-**Databases & Tools**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,git" alt="MySQL, Git" /></a>
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=default&hide_border=true" />
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=lucasrmagalhaes&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lucasrmagalhaes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lucasrmagalhaes&layout=compact&langs_count=8&theme=default&hide_border=true" />
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucasrmagalhaes&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" />
-  </picture>
-</div>
-
-## Featured Projects
-
-- **[Personal Portfolio](https://magalhaes.dev/)** — my personal website, built with React · [magalhaes.dev](https://magalhaes.dev/)
-- **[dt money](https://github.com/lucasrmagalhaes/ignite_rockeatseat-react)** — personal finance tracker built with React during Rocketseat Ignite · [live](https://dt-money-react.netlify.app/) · the same repo also hosts [GitHub Explorer](https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/tree/chapterI) ([live](https://github-explorer-ignite-react.netlify.app/))
-- **[Event Platform](https://github.com/lucasrmagalhaes/event_platform-react)** — an event platform built with React · [live](https://event-platform-react-roan.vercel.app/)
-- **[Snake](https://github.com/lucasrmagalhaes/snake-js)** — the classic snake game in vanilla JavaScript · [play](https://lucasrmagalhaes.github.io/snake-js/)
-- **[COVID-19 PWA](https://github.com/lucasrmagalhaes/covid19-react)** — installable progressive web app for tracking COVID-19 data, built with React · [live](https://covid19-pwa.netlify.app/)
-
-More experiments, course notes and study projects live in [my repositories](https://github.com/lucasrmagalhaes?tab=repositories).
-
-<!-- Generated daily by .github/workflows/snake.yml — the SVGs are published to the "output" branch. -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasrmagalhaes/lucasrmagalhaes/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasrmagalhaes/lucasrmagalhaes/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/lucasrmagalhaes/lucasrmagalhaes/output/github-snake.svg" />
-  </picture>
-</div>
-
-## 🎧 Recently Played
-
-<!-- If this card shows "Spotify authorization needed", re-authorize at https://spotify-recently-played-readme.vercel.app (refresh tokens expire roughly every 6 months). -->
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ad75itafbn7w2633u16rwhb09">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ad75itafbn7w2633u16rwhb09&count=3&unique=true&width=380" alt="Spotify recently played" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasrmagalhaes&style=flat&color=8b949e&label=profile%20views" alt="Profile views" />
-</div>
+- **[AgilInM](https://lp.agilinm.org/#/)**: web and mobile product at Sistema FIERGS, covering the interface, services, and integrations.
+- **[Randon Smart](https://www.randon.com.br/pt/tecnologia/randon-smart)**: connected fleet product, with web systems, a desktop app, and Node.js services.
+- **[AI calendar agent](https://github.com/lucasrmagalhaes/n8n-agente-agenda-mcp)**: agenda agent with n8n, MCP, and Google Calendar.
+- **[Portfolio](https://magalhaes.dev)**: personal site.
